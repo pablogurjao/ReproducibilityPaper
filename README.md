@@ -1,3 +1,4 @@
 # ReproducibilityPaper
 
-https://pt.overleaf.com/project/5bd79f63cf13827f6b7bf932
+Nextjournal paper link:
+https://nextjournal.com/a/MafVMtMyqZjrmirqY83d1?token=MzL7wmf1qPEM7fTmeZmmjs
