@@ -78,6 +78,16 @@ to use the mqtt at the python, it is needed to run:
 pip3 install paho-mqtt
 ```
 
+To the MQTT work properly, you need to check the ip of your machine. Go to the linux terminal and type:
+
+```
+ifconfig
+```
+![IP](https://github.com/pablogurjao/ReproducibilityPaper/blob/master/ip.png)
+
+And copy your ip, as I am connected from wi-fi, mt ip is 127.0.0.1
+
+with your ip paste this ip at the field "hostname" in the real time detect object file and at the "hostname" from them app.py file.
 
 ## Methods
 
